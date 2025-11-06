@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Quay Số</string>
+    <string name="result_roll">Kết Quả</string>
+    <string name="big">Tài</string>
+    <string name="small">Xỉu</string>
+    <string name="rolling">Đang quay...</string>
+</resources>
